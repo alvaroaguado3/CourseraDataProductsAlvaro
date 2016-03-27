@@ -1,0 +1,9 @@
+name: CourseraCreateDataProducts
+account: argustest
+server: shinyapps.io
+appId: 90592
+bundleId: 403798
+url: https://argustest.shinyapps.io/CourseraCreateDataProducts/
+when: 1459012490.64244
+asMultiple: FALSE
+asStatic: FALSE
